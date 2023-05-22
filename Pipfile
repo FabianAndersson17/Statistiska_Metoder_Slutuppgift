@@ -8,6 +8,7 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 statsmodels = "*"
+ipykernel = "*"
 
 [dev-packages]
 
